@@ -1,14 +1,14 @@
-# Spot DEX Screener Arbitrage – Real-time Price & Volume Tracker for Decentralized Exchanges
+# Spot & DEX Arbitrage Screener – Real-time Price & Volume Tracker for Decentralized Exchanges
 
-Spot DEX Screener is a powerful open-source tool designed to monitor real-time prices, trading volumes, and trends across popular decentralized and centralized exchanges. Whether you're a trader, developer, or DeFi enthusiast, this screener helps you stay ahead of market movements and identify arbitrage or liquidity opportunities.
+Spot & DEX Arbitrage Screener is a powerful open-source tool designed to monitor real-time prices, trading volumes, and trends across popular decentralized and centralized exchanges. Whether you're a trader, developer, or DeFi enthusiast, this screener helps you stay ahead of market movements and identify arbitrage or liquidity opportunities.
 
 <p align="center">
-  <img width="400" src="https://py-dev.top/components/com_jshopping/files/img_products/spot-dex-screener.png" alt="Spot DEX Screener Arbitrage Tool for Real-Time Crypto Analysis">
+  <img width="400" src="https://py-dev.top/components/com_jshopping/files/img_products/spot-dex-screener.png" alt="Spot & DEX Arbitrage Screener Tool for Real-Time Crypto Analysis">
 </p>
 
 ## 🔍 Python-Based Arbitrage Monitoring Tool for CEX and DEX
 
-Spot DEX Screener is a powerful Python-based analytics tool for tracking real-time arbitrage opportunities across centralized (CEX) and decentralized (DEX) crypto exchanges.
+Spot & DEX Arbitrage Screener is a powerful Python-based analytics tool for tracking real-time arbitrage opportunities across centralized (CEX) and decentralized (DEX) crypto exchanges.
 
 ---
 
@@ -81,7 +81,7 @@ While many arbitrage screeners exist online, **Spot DEX Screener Arbitrage (Loca
 - No analytics scripts or performance hits from 3rd-party trackers.
 
 ### ✅ 6. **No Subscription Required**
-- Unlike many online platforms, the **local version of Spot DEX Screener Arbitrage is 100% free** to use.
+- Unlike many online platforms, the **local version of Spot & DEX Arbitrage Screener is 100% free** to use.
 - No monthly fees, premium tiers, or hidden limitations — all features are available out of the box.
 - Ideal for solo developers, small trading teams, and independent analysts who want **full power without recurring payments**.
 
@@ -95,6 +95,7 @@ While many arbitrage screeners exist online, **Spot DEX Screener Arbitrage (Loca
 | Exchange/network extensibility   | ❌ Usually fixed | ✅ Easily extendable     |
 | Offline/secure use               | ❌ No            | ✅ Yes                   |
 | Subscription or monthly fee      | ✅ Often required | ✅ Free forever         |
+| Telegram alerts                  | ❌ Rarely offered | ✅ Built-in Option      |
 
 ---
 
@@ -141,8 +142,8 @@ Go to the Spot DEX Screener folder and click on the start.bat file to start the 
   - `.sh` shell script for **Linux/macOS**
 
 
-## Buy Spot DEX Screener Arbitrage
-https://py-dev.top/application-software/spot-dex-screener-arbitrage
+## Buy Spot & DEX Arbitrage Screener
+https://py-dev.top/application-software/spot-dex-arbitrage-screener
 
 ## Contacts
 Telegram:  @morgan_sql<br>
