@@ -60,40 +60,17 @@ Spot & DEX Arbitrage Screener is a powerful Python-based analytics tool for trac
 
 While many arbitrage screeners exist online, **Spot DEX Screener Arbitrage (Local Version)** offers several key advantages:
 
-### ✅ 1. **Full Control Over Data**
-- Your API keys and arbitrage data stay private — nothing is sent to external servers.
-- You can set custom filters, thresholds, and exchange selections without limitations.
-
-### ✅ 2. **Real-Time Speed**
-- Local processing ensures **lower latency** and **faster updates** than most cloud-based trackers.
-- No throttling or rate limiting from centralized web dashboards.
-
-### ✅ 3. **Customization & Scripting**
-- Add new exchanges, blockchain networks, and arbitrage logic.
-- Integrate with bots, alerts, or your own trading systems.
-
-### ✅ 4. **No Account or Login Required**
-- Run it offline or inside a secured server.
-- Ideal for private OTC desks, automated arbitrage systems, or serious traders.
-
-### ✅ 5. **No Ads, No Tracking**
-- 100% clean interface focused on functionality.
-- No analytics scripts or performance hits from 3rd-party trackers.
-
-### ✅ 6. **No Subscription Required**
-- Unlike many online platforms, the **local version of Spot & DEX Arbitrage Screener is 100% free** to use.
-- No monthly fees, premium tiers, or hidden limitations — all features are available out of the box.
-- Ideal for solo developers, small trading teams, and independent analysts who want **full power without recurring payments**.
+### ✅ Full data control: Information comes directly from exchanges to you — no intermediaries, no delays.
+### ✅ Real-time speed: Minimal latency, instant updates with no server-side limits.
+### ✅ No subscriptions: Completely free forever — no premium accounts or restrictions.
+### ✅ Telegram alerts: Get arbitrage signals directly via Telegram bot, filtered by your custom rules.
 
 ### 🆚 Comparison: Web App vs Local App
 
 | Feature                          | Web Version     | Local Spot DEX Screener |
 |----------------------------------|------------------|--------------------------|
-| Data privacy                     | ❌ Shared        | ✅ 100% Private          |
 | Custom filters                   | ❌ Limited       | ✅ Full Control          |
-| Latency & update speed           | ❌ Depends on server | ✅ Real-time           |
-| Exchange/network extensibility   | ❌ Usually fixed | ✅ Easily extendable     |
-| Offline/secure use               | ❌ No            | ✅ Yes                   |
+| Latency & update speed           | ❌ Depends on server | ✅ Real-time         |
 | Subscription or monthly fee      | ✅ Often required | ✅ Free forever         |
 | Telegram alerts                  | ❌ Rarely offered | ✅ Built-in Option      |
 
